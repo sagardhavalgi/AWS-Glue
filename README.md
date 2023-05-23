@@ -7,4 +7,4 @@ Once the data is extracted, AWS Glue provides tools and features to transform an
 <br>One of the advantages of AWS Glue is its scalability. It can handle large volumes of data and perform transformations in parallel, enabling faster processing times. It integrates well with other AWS services, allowing seamless data integration and analytics workflows.<br>
 
 <h3 align="left">How does AWS Glue work?</h3>
-<img src="https://github.com/sagardhavalgi/Real-time-data-engineering-project/blob/main/Project_Archi.PNG" alt="descriptive text">
+<img src="https://raw.githubusercontent.com/sagardhavalgi/AWS-Glue/main/awsGlue.webp" alt="descriptive text">
