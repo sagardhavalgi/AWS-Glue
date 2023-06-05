@@ -8,3 +8,4 @@ Once the data is extracted, AWS Glue provides tools and features to transform an
 
 <h3 align="left">How does AWS Glue work?</h3>
 <img src="https://raw.githubusercontent.com/sagardhavalgi/AWS-Glue/main/awsGlue.webp" alt="descriptive text">
+
