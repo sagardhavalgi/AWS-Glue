@@ -9,3 +9,20 @@ Once the data is extracted, AWS Glue provides tools and features to transform an
 <h3 align="left">How does AWS Glue work?</h3>
 <img src="https://raw.githubusercontent.com/sagardhavalgi/AWS-Glue/main/awsGlue.webp" alt="descriptive text">
 
+<h3 align="left">AWS Glue Vs AWS EMR</h3>
+
+AWS Glue is a fully managed ETL service focused on data preparation and loading, with a serverless architecture. It simplifies ETL tasks and supports data cataloging.
+
+Amazon EMR is a managed big data platform that supports popular open-source frameworks like Apache Spark and Hadoop. It provides a cluster-based environment for processing and analyzing large datasets efficiently.
+
+Here are some key differences between AWS Glue and EMR:
+
+✅ Functionality: AWS Glue is primarily focused on ETL and data preparation tasks. It provides capabilities for data extraction, transformation, and loading into various data stores. EMR, on the other hand, is a comprehensive big data platform that supports a wide range of data processing frameworks and allows for more advanced analytics and machine learning workflows.
+
+✅ Serverless vs. Cluster-based: AWS Glue is a serverless service, which means you don't need to provision or manage any infrastructure. It automatically scales to handle your ETL workloads. EMR, on the other hand, requires you to create and manage clusters of EC2 instances, which allows for more control over the resources but requires more management overhead.
+
+✅ Cost: AWS Glue is billed based on the number of data processing units (DPUs) used and the number of data catalog objects. You pay for the resources consumed during ETL job execution. EMR pricing is based on the type and number of EC2 instances in the cluster and the duration of their usage. EMR clusters can be more cost-effective for long-running, compute-intensive workloads.
+
+✅ Flexibility: AWS Glue provides a managed environment for ETL, but it has some limitations in terms of the frameworks and libraries you can use. EMR, being a cluster-based platform, offers more flexibility as you can install and configure additional software and libraries to suit your specific needs.
+
+In summary, AWS Glue is a fully managed ETL service focused on data preparation and loading, while Amazon EMR is a comprehensive big data processing platform that supports a wide range of frameworks and allows for more advanced analytics. The choice between the two depends on your specific requirements, the complexity of your data processing tasks, and the level of control you need over the underlying infrastructure.
