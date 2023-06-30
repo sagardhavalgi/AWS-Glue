@@ -26,3 +26,11 @@ Here are some key differences between AWS Glue and EMR:
 ✅ Flexibility: AWS Glue provides a managed environment for ETL, but it has some limitations in terms of the frameworks and libraries you can use. EMR, being a cluster-based platform, offers more flexibility as you can install and configure additional software and libraries to suit your specific needs.
 
 In summary, AWS Glue is a fully managed ETL service focused on data preparation and loading, while Amazon EMR is a comprehensive big data processing platform that supports a wide range of frameworks and allows for more advanced analytics. The choice between the two depends on your specific requirements, the complexity of your data processing tasks, and the level of control you need over the underlying infrastructure.
+
+<h3 align="left">Challenges to Overcome</h3>
+While AWS Glue offers many benefits, there are also some challenges to overcome along the way. One of the biggest challenges is the learning curve. If you're new to AWS Glue, you'll need to invest some time in learning how to use the service effectively. This can involve attending training sessions, reading documentation, and experimenting with different use cases.
+
+
+Another challenge is the cost. While AWS Glue is a highly cost-effective solution compared to building and maintaining your own data integration infrastructure, it can still be expensive for some organizations, especially if you have large data volumes or complex ETL requirements.
+
+
