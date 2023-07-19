@@ -32,5 +32,3 @@ While AWS Glue offers many benefits, there are also some challenges to overcome 
 
 
 Another challenge is the cost. While AWS Glue is a highly cost-effective solution compared to building and maintaining your own data integration infrastructure, it can still be expensive for some organizations, especially if you have large data volumes or complex ETL requirements.
-
-
