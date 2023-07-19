@@ -1,5 +1,6 @@
 # AWS-Glue
 
+
 <h3 align="left">What is AWS Glue?</h3>
 AWS Glue is a fully managed extract, transform, and load (ETL) service provided by Amazon Web Services (AWS). It helps in preparing and transforming data so that it can be easily analyzed and used for various purposes.<br>
 <br>AWS Glue simplifies the process of extracting data from different sources, such as databases, data lakes, or streaming platforms.
